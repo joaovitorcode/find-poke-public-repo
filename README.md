@@ -1,4 +1,4 @@
-## Projeto Uerita
+## Projeto FindPoke
 Este projeto permite ao usuário pesquisar por pokemons, exibir os dados do pokemon em sua própria rota, fazer login com o Google e adicionar os pokemons em uma lista de favoritos.
 
 ## Tecnologias utilizadas
